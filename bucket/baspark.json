@@ -6,10 +6,10 @@
     "url": "https://github.com/DoomVoss/BASpark/releases/download/v1.6.0/BASpark_Installer_v1.6.0_x64.exe",
     "hash": "da9bced3cba563c0d738569d8be4db76e9995a428ff4d135311ce767f7384bdc",
     "installer": {
-        "args": ["/S", "/D=$dir"]
+        "args": ["/VERYSILENT", "/DIR=$dir"]
     },
     "uninstall": {
-        "args": ["/S"]
+        "args": ["/VERYSILENT"]
     },
     "shortcuts": [["BASpark.exe", "BASpark"]]
 }
