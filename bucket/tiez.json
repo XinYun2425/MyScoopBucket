@@ -6,5 +6,5 @@
     "url": "https://github.com/jimuzhe/tiez-clipboard/releases/download/v0.3.3/TieZ_0.3.3-portable.zip",
     "hash": "74a4cc2561b5ee48fc3788794d157ab45802e1e8fffaae49cfa3574c66e39548",
     "extract_dir": "",
-    "shortcuts": [["tiez-app.exe", "TieZ Clipboard"]]
+    "shortcuts": [["TieZ_0.3.3-portable/tiez-app.exe", "TieZ Clipboard"]]
 }
