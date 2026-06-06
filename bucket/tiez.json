@@ -2,8 +2,12 @@
     "version": "0.3.3",
     "homepage": "https://tiez.name666.top/",
     "license": "GPL-3.0 license",
-    "url": "https://github.com/jimuzhe/tiez-clipboard/releases/download/v0.3.3/TieZ_0.3.3_x64-setup.exe",
-    "hash": "fd804a88de981a44c45ed25d5bbaae3f80c1ff175d72d59998d3d508aa7db25b",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jimuzhe/tiez-clipboard/releases/download/v0.3.3/TieZ_0.3.3_x64-setup.exe",
+            "hash": "fd804a88de981a44c45ed25d5bbaae3f80c1ff175d72d59998d3d508aa7db25b"
+        }
+    },
     "bin": "TieZ_0.3.3_x64-setup.exe",
     "shortcuts": [["TieZ.exe"]]
 }
