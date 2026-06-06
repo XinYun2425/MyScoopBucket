@@ -9,5 +9,6 @@
         }
     },
     "bin": "TieZ_0.3.3_x64-setup.exe",
+    "innosetup": true,
     "shortcuts": [["TieZ.exe"]]
 }
